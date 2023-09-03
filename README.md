@@ -42,6 +42,7 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 ## Examples of Work
 <div align="left">  
+<a target="_blank" rel="noopener noreferrer" href="https://oilprint.github.io/patricia-wedding/"><img src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" alt="Wedding Dress Showroom"  width="240" height="180"></a>
   
 <a href="https://oilprint.github.io/patricia-wedding/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" 
 alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
