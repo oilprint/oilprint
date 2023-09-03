@@ -28,15 +28,9 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 ## Examples of Work
   
-<a href="https://oilprint.github.io/patricia-wedding/" target="_blank">
-<img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" alt="Wedding Dress Showroom" width="256"/>
-</a>
-<a href="oilprint.github.io/patricia-wedding/" target="_blank">
-<img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/bc-cover.png" alt="Dental Clinic" width="256"/>
-</a>
-<a href="oilprint.github.io/patricia-wedding/" target="_blank">
-<img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" alt="Ballet Studio" width="256"/>
-</a>
+<a href="https://oilprint.github.io/patricia-wedding/" target="_blank"> <img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" alt="Wedding Dress Showroom" width="256" /></a>
+<a href="oilprint.github.io/patricia-wedding/" target="_blank"><img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/bc-cover.png" alt="Dental Clinic" width="256"/></a>
+<a href="oilprint.github.io/patricia-wedding/" target="_blank"><img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" alt="Ballet Studio" width="256"/></a>
 
 
 </td><td valign="top" width="33%">
