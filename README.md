@@ -27,8 +27,8 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 
 ## Examples of Word
-<img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/>
-<img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/>
+<img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/> <img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/> <img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/>
+
 
 
 </td><td valign="top" width="33%">
