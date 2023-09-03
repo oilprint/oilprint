@@ -47,9 +47,11 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
 <a href="https://oilprint.github.io/patricia-wedding/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bc-cover.png" 
 alt="Bulldog Club" width="240" height="180" border="10" /></a>
-<a href="https://oilprint.github.io/patricia-wedding/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" 
+<a href="https://oilprint.github.io/family-dental/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" 
 alt="Dental Clinic" width="240" height="180" border="10" /></a>
 </div>
+
+
 
 ## Connect with me  
 <div align="left">
