@@ -26,10 +26,18 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 
 
-## Examples of Word
-<img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/> <img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/> <img src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" width="256"/>
+## Examples of Work
+<a href="oilprint.github.io/patricia-wedding/" target="_blank">
+<img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/pw_cover.jpg" alt="Wedding Dress Showroom" width="256"/>
+</a>
+<a href="oilprint.github.io/patricia-wedding/" target="_blank">
+<img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" alt="Dental Clinic" width="256"/>
+</a>
+<a href="oilprint.github.io/patricia-wedding/" target="_blank">
+<img style="margin: 30px" src="https://github.com/oilprint/oilprint/blob/main/bs_cover.jpg" alt="Ballet Studio" width="256"/>
+</a>
 
-
+ 
 
 </td><td valign="top" width="33%">
 
@@ -45,7 +53,7 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/oilprint" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
