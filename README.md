@@ -42,8 +42,6 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 ## Examples of Work
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" data-target="animated-image.originalLink"><img src="https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-  
 <a href="https://oilprint.github.io/patricia-wedding/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" 
 alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
 <a href="https://oilprint.github.io/patricia-wedding/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bc-cover.png" 
@@ -55,6 +53,7 @@ alt="Dental Clinic" width="240" height="180" border="10" /></a>
 
 
 ## Connect with me  
+
 <div align="left">
 <a href="https://github.com/oilprint" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
