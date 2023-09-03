@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Iryna
 #### Design and Development
-![Design and Development]([https://github.com/oilprint/oilprint/blob/main/git.jpg](https://github.com/oilprint/oilprint/blob/main/git-1.jpg))
+![Design and Development](https://github.com/oilprint/oilprint/blob/main/git-1.jpg)
 
 I'm a Ukranian UX/UI designer & web developer with several years of professional experience.
 I like to solve design problems, create smart user interfaces, and develop interactive web products.
