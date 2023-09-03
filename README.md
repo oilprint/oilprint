@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Iryna
 #### Design and Development
-![Design and Development](https://media.licdn.com/dms/image/D4E16AQHU73ZEV_yQbQ/profile-displaybackgroundimage-shrink_350_1400/0/1693745280684?e=1699488000&v=beta&t=iLDNVi8aoYgbQ_bm9R2JkcNVZLmxV2PFTTThBF0_99Y)
+![Design and Development](https://github.com/oilprint/oilprint/blob/main/git.jpg)
 
 I'm a Ukranian UX/UI designer & web developer with several years of professional experience.
 I like to solve design problems, create smart user interfaces, and develop interactive web products.
