@@ -52,8 +52,6 @@ alt="Bulldog Club" width="240" height="180" border="10" /></a>
 alt="Dental Clinic" width="240" height="180" border="10" /></a>
 
 
-
-
 ## Connect with me  
 
 <div align="left">
