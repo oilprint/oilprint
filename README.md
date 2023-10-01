@@ -44,10 +44,11 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 ## Examples of Work
 
-<a href="https://oilprint.github.io/patricia-wedding/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" 
-alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
+
 <a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bc-cover.png" 
 alt="Bulldog Club" width="240" height="180" border="10" /></a>
+<a href="https://github.com/oilprint/patricia-wedding" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" 
+alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
 <a href="https://oilprint.github.io/family-dental/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" 
 alt="Dental Clinic" width="240" height="180" border="10" /></a>
 
