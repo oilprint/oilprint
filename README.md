@@ -25,6 +25,8 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>  
   <a href="https://jquery.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="30" /></a>   
+
+ 
   
 </div>
 
@@ -50,6 +52,9 @@ alt="Bulldog Club" width="240" height="180" border="10" /></a>
 <a href="https://github.com/oilprint/patricia-wedding" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/wedding-cover-small.jpg" 
 alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
 <a href="https://oilprint.github.io/family-dental/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" 
+alt="Dental Clinic" width="240" height="180" border="10" /></a>
+
+<a href="https://github.com/oilprint/dolguldur/tree/main" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dolguldur-cover-small.jpg" 
 alt="Dental Clinic" width="240" height="180" border="10" /></a>
 
 ## Connect with me  
