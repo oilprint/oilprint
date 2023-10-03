@@ -47,7 +47,7 @@ When I'm not busy breathing life into clean and polished websites and applicatio
 
 <a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bulldog-cover-small.jpg" 
 alt="Bulldog Club" width="240" height="180" border="10" /></a>
-<a href="https://github.com/oilprint/patricia-wedding" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/pw-cover.png" 
+<a href="https://github.com/oilprint/patricia-wedding" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/wedding-cover-small.jpg" 
 alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
 <a href="https://oilprint.github.io/family-dental/" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dc_cover.jpg" 
 alt="Dental Clinic" width="240" height="180" border="10" /></a>
