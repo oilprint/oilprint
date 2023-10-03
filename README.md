@@ -11,8 +11,6 @@ I'm a Ukranian UX/UI Designer & Web Developer with several years of professional
 I like to solve design problems, create smart user interfaces, and develop interactive web products.
 
 
-When I'm not busy breathing life into clean and polished websites and applications, I'm out and about, either exploring new places, snapping photographs, or indulging in novel experiences, whether in the real world or the digital one.
-
 
 ## Skills and Experience
 
