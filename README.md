@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/oilprint/oilprint/blob/main/git-1.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/oilprint/oilprint/blob/main/main2.jpg" align="center" style="width: 100%" />
 </div>  
   
 
