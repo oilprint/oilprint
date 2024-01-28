@@ -16,7 +16,7 @@ I like to solve design problems, create smart user interfaces, and develop inter
 
 <table><tr><td valign="top" width="256">  
   
-### Frontend  
+### Web development
   
 <div align="left">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a>  
