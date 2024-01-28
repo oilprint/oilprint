@@ -5,7 +5,7 @@
 
 # Iryna Kozlova
 
-I'm a Ukranian UX/UI Designer & Web Developer with several years of professional experience.
+UX/UI Designer & Web Developer with several years of professional experience
 
 
 I like to solve design problems, create smart user interfaces, and develop interactive web products.
