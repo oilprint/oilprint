@@ -30,7 +30,7 @@ I like to solve design problems, create smart user interfaces, and develop inter
 
 </td><td valign="top" width="256">
   
-### Design  
+### 🍧 DESIGN TOOLS
   
 <div align="left">  
 <a href="https://www.figma.com/"  target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
