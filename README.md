@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/oilprint/family-dental-clinic/blob/main/family-dental-hero.jpg" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
@@ -45,7 +45,7 @@ I like to solve design problems, create smart user interfaces, and develop inter
 ## Examples of Work
 
 
-<a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"><img src="https://github.com/oilprint/family-dental-clinic/blob/main/dental-family.jpg" 
+<a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"><img src="https://github.com/oilprint/family-dental-clinic/blob/main/family-dental-hero.jpg" 
 alt="Family Dental" width="240" height="180" border="10" /></a>
 <a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bulldog-cover-small.jpg" 
 alt="Bulldog Club" width="240" height="180" border="10" /></a>
