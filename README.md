@@ -43,27 +43,27 @@ I like to solve design problems, create smart user interfaces, and develop inter
 </td></tr></table>  
 
 ## Examples of Work
-<div  margin="20"> 
+
   <a href="https://github.com/oilprint/adventure-online-com" target="_blank"><img src="https://github.com/oilprint/adventure-online-com/blob/main/docs/adventure-hero.jpg" 
-alt="Family Dental" width="240" height="180" border="30"/></a></div>
-<div  margin="20">
+alt="Family Dental" width="240" height="180" border="30"/></a>
+
   <a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"><img src="https://github.com/oilprint/family-dental-clinic/blob/main/family-dental-hero.jpg" 
-alt="Family Dental" width="240" height="180" border="10" /></a> </div>
-<div  margin="20">
+alt="Family Dental" width="240" height="180" border="10" /></a> 
+
 <a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bulldog-cover-small.jpg" 
-alt="Bulldog Club" width="240" height="180" border="10"  margin="20" /></a></div>
+alt="Bulldog Club" width="240" height="180" border="10"  margin="20" /></a>
 
 
 
-<div  margin="20"> 
+
 <a href="https://github.com/oilprint/patricia-wedding" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/wedding-cover-small.jpg" 
-alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a></div>
-<div  margin="20"> 
+alt="Wedding Dress Showroom" width="240" height="180" border="10" /></a>
+
 <a href="https://github.com/oilprint/family-dental" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/familydental-cover-small.jpg" 
-alt="Dental Clinic" width="240" height="180" border="10" /></a></div>
-<div  margin="20"> 
+alt="Dental Clinic" width="240" height="180" border="10" /></a>
+
 <a href="https://github.com/oilprint/dolguldur/tree/main" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dolguldur-cover-small.jpg" 
-alt="Dental Clinic" width="240" height="180" border="10" /></a></div>
+alt="Dental Clinic" width="240" height="180" border="10" /></a>
 
 
 
