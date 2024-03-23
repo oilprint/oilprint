@@ -45,10 +45,10 @@ I like to solve design problems, create smart user interfaces, and develop inter
 ## Examples of Work
 
   <a href="https://github.com/oilprint/adventure-online-com" target="_blank"><img src="https://github.com/oilprint/adventure-online-com/blob/main/docs/adventure-hero.jpg" 
-alt="Family Dental" width="240" height="180" border="30"/></a> 
+alt="Family Dental" width="240" height="180" border="30"/></a>
   <a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"><img src="https://github.com/oilprint/family-dental-clinic/blob/main/family-dental-hero.jpg" 
-alt="Family Dental" width="240" height="180" border="10" /></a>  
-<a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bulldog-cover-small.jpg" 
+alt="Family Dental" width="240" height="180" border="10" /></a>
+  <a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/bulldog-cover-small.jpg" 
 alt="Bulldog Club" width="240" height="180" border="10"  margin="20" /></a>
 
 
