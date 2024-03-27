@@ -14,12 +14,12 @@ I like to solve design problems, create smart user interfaces, and develop inter
 
 ## Skills and Experience
 
-<table><tr><td valign="top" width="256">  
+<table><tr><td valign="top" width="256"> 
   
 ### 🕸️ WEB DEV
   
 <div align="left">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30"  /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>  
   <a href="https://jquery.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="30" /></a>   
@@ -33,9 +33,9 @@ I like to solve design problems, create smart user interfaces, and develop inter
 ### 🍧 DESIGN TOOLS
   
 <div align="left">  
-<a href="https://www.figma.com/"  target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" /></a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30" /></a>  
+<a href="https://www.figma.com/"  target="_blank"><img style="margin:30px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin:30px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" /></a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin:30px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="30" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="30" /></a>
 </div>
@@ -44,21 +44,21 @@ I like to solve design problems, create smart user interfaces, and develop inter
 
 ## Examples of Work
 
-  <a href="https://github.com/oilprint/adventure-online-com" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/travel-cover-01.png" 
+  <a href="https://github.com/oilprint/adventure-online-com" target="_blank" style="margin: 30px" ><img src="https://github.com/oilprint/oilprint/blob/main/travel-cover-01.png" 
 alt="Travel Agency" width="277" height="157"  border="30"/></a>
-  <a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/familyDental-cover-01.png" 
+  <a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/familyDental-cover-01.png" 
 alt="Family Dental" width="277" height="157" border="30" /></a>
-  <a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/buldogClub-cover-01.png" 
+  <a href="https://github.com/oilprint/bulldogclub" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/buldogClub-cover-01.png" 
 alt="Bulldog Club"  width="277" height="157"   margin="20" /></a>
 
 
 
 
-<a href="https://github.com/oilprint/patricia-wedding" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/wedding-cover-02.png" 
+<a href="https://github.com/oilprint/patricia-wedding" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/wedding-cover-02.png" 
 alt="Wedding Dress Showroom" width="277" height="157"  border="30" /></a> 
-<a href="https://github.com/oilprint/family-dental" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dentist-cover-01.png" 
+<a href="https://github.com/oilprint/family-dental" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/dentist-cover-01.png" 
 alt="Dental Clinic" width="277" height="157" /></a> 
-<a href="https://github.com/oilprint/dolguldur/tree/main" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dolguldur-cover-01.png" 
+<a href="https://github.com/oilprint/dolguldur/tree/main" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/dolguldur-cover-01.png" 
 alt="Dental Clinic" width="277" height="157" border="30" /></a>
 
 
