@@ -45,21 +45,21 @@ I like to solve design problems, create smart user interfaces, and develop inter
 ## Examples of Work
 
   <a href="https://github.com/oilprint/adventure-online-com" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/travel-cover-01.png" 
-alt="Travel Agency" width="270" height="153"  border="30"/></a>
+alt="Travel Agency" width="277" height="157"  border="30"/></a>
   <a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/familyDental-cover-01.png" 
-alt="Family Dental" width="270" height="153"  border="30" /></a>
+alt="Family Dental" width="277" height="157" border="30" /></a>
   <a href="https://github.com/oilprint/bulldogclub" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/buldogClub-cover-01.png" 
-alt="Bulldog Club"  width="270" height="153"   margin="20" /></a>
+alt="Bulldog Club"  width="277" height="157"   margin="20" /></a>
 
 
 
 
 <a href="https://github.com/oilprint/patricia-wedding" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/wedding-cover-02.png" 
-alt="Wedding Dress Showroom" width="270" height="153"  border="30" /></a> 
+alt="Wedding Dress Showroom" width="277" height="157"  border="30" /></a> 
 <a href="https://github.com/oilprint/family-dental" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dentist-cover-01.png" 
-alt="Dental Clinic" width="270" height="153" /></a> 
+alt="Dental Clinic" width="277" height="157" /></a> 
 <a href="https://github.com/oilprint/dolguldur/tree/main" target="_blank"><img src="https://github.com/oilprint/oilprint/blob/main/dolguldur-cover-01.png" 
-alt="Dental Clinic" width="270" height="153" border="30" /></a>
+alt="Dental Clinic" width="277" height="157" border="30" /></a>
 
 
 
