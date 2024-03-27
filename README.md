@@ -43,21 +43,26 @@ I like to solve design problems, create smart user interfaces, and develop inter
 </td></tr></table>  
 
 ## Examples of Work
-
+ <a href="https://github.com/oilprint/tech_group/tree/main" target="_blank" style="margin: 30px" ><img src="https://github.com/oilprint/oilprint/blob/main/edducation-cover-01.png" 
+alt="Education Center" width="277" height="157"  border="30"/></a>
   <a href="https://github.com/oilprint/adventure-online-com" target="_blank" style="margin: 30px" ><img src="https://github.com/oilprint/oilprint/blob/main/travel-cover-01.png" 
 alt="Travel Agency" width="277" height="157"  border="30"/></a>
   <a href="https://github.com/oilprint/family-dental-clinic/tree/main" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/familyDental-cover-01.png" 
 alt="Family Dental" width="277" height="157" border="30" /></a>
-  <a href="https://github.com/oilprint/bulldogclub" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/buldogClub-cover-01.png" 
+ 
+
+
+
+ <a href="https://github.com/oilprint/bulldogclub" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/buldogClub-cover-01.png" 
 alt="Bulldog Club"  width="277" height="157"   margin="20" /></a>
-
-
-
-
 <a href="https://github.com/oilprint/patricia-wedding" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/wedding-cover-02.png" 
 alt="Wedding Dress Showroom" width="277" height="157"  border="30" /></a> 
 <a href="https://github.com/oilprint/family-dental" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/dentist-cover-01.png" 
 alt="Dental Clinic" width="277" height="157" /></a> 
+ 
+
+
+
 <a href="https://github.com/oilprint/dolguldur/tree/main" target="_blank"  style="margin: 30px"><img src="https://github.com/oilprint/oilprint/blob/main/dolguldur-cover-01.png" 
 alt="Dental Clinic" width="277" height="157" border="30" /></a>
 
