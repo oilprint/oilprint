@@ -45,7 +45,7 @@ I like to solve design problems, create smart user interfaces, and develop inter
 ## Examples of Work
  <a href="https://github.com/oilprint/tech_group/tree/main" target="_blank" style="margin: 30px" ><img src="https://github.com/oilprint/oilprint/blob/main/edducation-cover-01.png" 
 alt="Education Center" width="277" height="157"  border="30"/></a>
- <a href="https://github.com/oilprint/art-shoes" target="_blank" style="margin: 30px" ><img src="hhttps://github.com/oilprint/oilprint/blob/main/artshoese-cover-02.png" 
+ <a href="https://github.com/oilprint/art-shoes" target="_blank" style="margin: 30px" ><img src="https://github.com/oilprint/oilprint/blob/main/artshoese-cover-02.png" 
 alt="Education Center" width="277" height="157"  border="30"/></a>
   <a href="https://github.com/oilprint/adventure-online-com" target="_blank" style="margin: 30px" ><img src="https://github.com/oilprint/oilprint/blob/main/travel-cover-01.png" 
 alt="Travel Agency" width="277" height="157"  border="30"/></a>
